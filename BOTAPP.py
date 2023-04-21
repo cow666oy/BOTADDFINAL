@@ -12,7 +12,7 @@ TOKEN = "6169631938:AAHD4zPWDNzWHmL4Dotl_9UlWsA1G4JlhEo"
 CHAT_ID = "-1001942807627"
 bot = telebot.TeleBot(TOKEN)
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 @bot.message_handler(commands=['start'])
 def start(message):
