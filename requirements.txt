@@ -1,9 +1,5 @@
-telebot
-openai
-urllib.request
-io
-speech_recognition 
-AudioSegment
-tempfile
-os
-gTTS
+telebot==3.3.0
+openai==0.27.0
+SpeechRecognition==3.8.1
+PyDub==0.25.1
+gTTS==2.2.3
