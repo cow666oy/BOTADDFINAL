@@ -2,7 +2,7 @@ telebot
 openai
 urllib.request
 io
-speech_recognition as sr
+speech_recognition 
 AudioSegment
 tempfile
 os
