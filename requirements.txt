@@ -1,4 +1,4 @@
-telebot==3.3.0
+pyTelegramBotAPI==3.8.2
 openai==0.27.0
 SpeechRecognition==3.8.1
 PyDub==0.25.1
